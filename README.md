@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m I am computer science final year student<br>👯 I’m looking to collaborate on development<br>🤝 I’m looking for help with<br>🌱 I’m currently learning advance web development<br>💬 Ask me about C++, DSA,  programming, Android<br>⚡ Thank you.
+🔭 I’m I am computer science final year student<br>👯 I’m looking to collaborate on development<br>🤝 I’m looking for help with new technology<br>🌱 I’m currently learning advance web development<br>💬 Ask me about C++, DSA,  programming, Android<br>⚡ Thank you.
 
 
 ## 🌐 Socials:
